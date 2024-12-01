@@ -1,0 +1,8 @@
+url,username,password,totp,extra,name,grouping,fav
+http://titleofwebsite1.com/,user123,pass123,,notes1,sample title1,travel,0
+http://nonotes2.com/,user123,pass123,,,sample title2,travel,0
+http://nopass3.com/,user123,,,notes1,sample title3,travel,0
+http://nousername4.com/,,pass123,,,sample title4,,0
+http://nowebname5.com/,user123,pass123,,notes1,,travel,0
+http://weirduserchar6.com/,!³Y9ªP2ÿZ¢Ôì7jo,pass123,,,sample title6,,0
+http://sn,,,,pass123,phone app,,0
